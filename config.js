@@ -49,16 +49,16 @@ module.exports = {
 //------------------------------------------------------------------------------------------------------------------
 
   
-  START_MSG: process.env.START_MSG || `🚀 *_SAHAS-MD Connected Successfully!_* ✅ 
+  START_MSG: process.env.START_MSG || `🚀 *_KAVISHKA-MD Connected Successfully!_* ✅ 
 
---- *👨‍💻🎉 _Welcome to SAHAS-MD!_* 🎉💗 
+--- *👨‍💻🎉 _Welcome to KAVISHKA-MD!_* 🎉💗 
 
 *🔹 PREFIX:* .
 
-*🔹 OWNER:* 94718913389
+*🔹 OWNER:* 94741479321
 
 
-_Thank you for using_ *👨‍💻SAHAS-MD💗.*
+_Thank you for using_ *👨‍💻KAVISHKA-MD💗.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
